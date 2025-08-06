@@ -1,6 +1,6 @@
 👋 Hi, I’m Anish Kumar
 
-🎓 Currently in four Year(B.Tech) from the department Of Computer Science and Technology in IIEST Shibpur
+🎓 Currently in 4th Year(B.Tech) from the department Of Computer Science and Technology in IIEST Shibpur
 
 👀 I’m interested in learning new Tech Stacks
 
